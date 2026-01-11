@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1006331145454",
+    "project_id": "ceyizapp-30dff",
+    "storage_bucket": "ceyizapp-30dff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006331145454:android:397588cd71dd05d142d7ff",
+        "android_client_info": {
+          "package_name": "com.example.ceyizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEj0FJMwjGAJz7w6EaEj5rQyTWmP7Ry0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006331145454:android:46078402ac97c40142d7ff",
+        "android_client_info": {
+          "package_name": "com.example.ceyizapp_clean"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgEj0FJMwjGAJz7w6EaEj5rQyTWmP7Ry0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
