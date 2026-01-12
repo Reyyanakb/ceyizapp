@@ -1,6 +1,7 @@
 #  Çeyiz Takip Mobil Uygulaması
 
-Bu proje, kullanıcıların çeyiz hazırlık sürecini dijital ortamda kolayca takip edebilmesini sağlamak amacıyla geliştirilmiş bir Flutter tabanlı mobil uygulamadır.
+Bu proje, Flutter kullanılarak geliştirilmiş ve Firebase ile entegre edilmiştir. Mobil Programlama dersi final projesi olarak tasarlanmış olup, geliştirmeye devam edilecektir.
+Uygulamanın amacı, kullanıcıların çeyiz hazırlık sürecini dijital ortamda kolayca takip edebilmesini sağlamaktır.
 Kullanıcılar, kendi profillerinden kategoriler oluşturabilir, ürün ekleyebilir, fiyatlarını kaydedebilir ve çeyiz durumlarını (aldım / alacağım / almadım) yönetebilir.
 Ayrıca, farklı profillerle arkadaşlık kurabilir ve çeyiz listelerini paylaşabilirler.
 
