@@ -19,9 +19,9 @@ Ayrıca, farklı profillerle arkadaşlık kurabilir ve çeyiz listelerini payla�
    Firebase Storage ile görsel yükleme
 -  **Durum Takibi**
    Aldım / Almadım / Alacağım
--  **Profil Sayfası (Geliştirme Aşamasında)**
+-  **Profil Sayfası**
    Kullanıcının çeyiz durum özetleri
--  **Arkadaş Sistemi (Planlanan)**
+-  **Arkadaş Sistemi**
    Arkadaş ekleme ve çeyiz listelerini görüntüleme
 
 ##  Kullanılan Teknolojiler
