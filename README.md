@@ -43,4 +43,8 @@ Ayrıca, farklı profillerle arkadaşlık kurabilir ve çeyiz listelerini payla�
 <img width="200" alt="Ekran görüntüsü 2026-01-11 213737" src="https://github.com/user-attachments/assets/3c021e5d-2052-451b-8a78-78ec7f7d9835" />
 <img width="200" alt="Ekran görüntüsü 2026-01-11 213749" src="https://github.com/user-attachments/assets/0562f024-4629-4f30-957c-37930853cca9" />
 
+## YouTube Demo Videosu
 
+Projenin tanıtım ve kullanım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
+
+ https://youtu.be/9sHV9k146lY
