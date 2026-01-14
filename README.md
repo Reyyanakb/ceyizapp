@@ -19,25 +19,25 @@ için ideal bir uygulamadır.
 # Hangi Problemi Çözer?
 
 Bu uygulama, çeyiz hazırlık sürecinde yaşanan şu problemleri çözer:
- Alınan ve alınmayan ürünlerin karışması
- Harcamaların kontrol edilememesi
- Kategori bazlı bütçe takibinin zor olması
- Ürün fiyatlarının unutulması veya notların kaybolması
- Çeyiz listesinin başkalarıyla paylaşılmasının zor olması
+- Alınan ve alınmayan ürünlerin karışması
+- Harcamaların kontrol edilememesi
+- Kategori bazlı bütçe takibinin zor olması
+- Ürün fiyatlarının unutulması veya notların kaybolması
+- Çeyiz listesinin başkalarıyla paylaşılmasının zor olması
 
  Uygulama sayesinde kullanıcılar:
 
-Ürünleri aldım / alacağım / almadım şeklinde ayırabilir
-Kategori ve genel toplam harcamalarını otomatik olarak görebilir
-Ürün görselleriyle daha düzenli bir çeyiz listesi oluşturabilir
-Arkadaşlarıyla çeyiz listelerini paylaşarak karşılaştırma yapabilir
+- Ürünleri aldım / alacağım / almadım şeklinde ayırabilir
+- Kategori ve genel toplam harcamalarını otomatik olarak görebilir
+- Ürün görselleriyle daha düzenli bir çeyiz listesi oluşturabilir
+- Arkadaşlarıyla çeyiz listelerini paylaşarak karşılaştırma yapabilir
 
 # Kullanıcı Kullanılabilirlik Değerlendirmesi
 
 Mobil uygulama geliştirme süreci boyunca, potansiyel kullanıcı adayları tarafından uygulama incelenmiş ve kullanılabilirlik açısından geri bildirimler alınmıştır. Yapılan değerlendirmelerde, kullanıcılar uygulamanın:
 Arayüz tasarımını genel tema ile uyumlu bulduklarını,
-Kullanımının kolay, anlaşılır ve rahat olduğunu,
-Uygulama içi gezinmenin kullanıcıyı zorlamadığını
+kullanımının kolay, anlaşılır ve rahat olduğunu,
+uygulama içi gezinmenin kullanıcıyı zorlamadığını
 belirtmişlerdir.
 
 Ayrıca, piyasadaki benzer (muadil) çeyiz takip uygulamalarından farklı olarak, arkadaş ekleme ve çeyiz ürünlerini paylaşabilme özelliğinin bulunması, uygulamanın ayırt edici ve öne çıkan bir yönü olarak değerlendirilmiştir.
@@ -45,19 +45,19 @@ Bu geri bildirimler doğrultusunda, uygulamanın kullanıcı deneyimi açısınd
 
 # Nerede ve Nasıl Kullanılır?
 
-Evde çeyiz planlaması yaparken
-Çeyiz listesi oluşturulurken harcama kontrolünde 
-Aile bireyleriyle veya arkadaşlarla paylaşım yaparken
+- Evde çeyiz planlaması yaparken
+- Çeyiz listesi oluşturulurken harcama kontrolünde 
+- Aile bireyleriyle veya arkadaşlarla paylaşım yaparken
 kullanılır.
 
 # Nasıl Kullanılır?
 
-Kullanıcı uygulamaya kayıt olur veya giriş yapar
-Kendi profiline özel çeyiz kategorileri oluşturur
-Kategorilere ürün, fiyat ve görsel ekler
-Ürünlerin durumunu (aldım / alacağım / almadım) belirler
-Toplam harcamaları otomatik olarak görüntüler
-Arkadaş ekleyerek diğer kullanıcıların çeyiz listelerini inceleyebilir
+- Kullanıcı uygulamaya kayıt olur veya giriş yapar
+- Kendi profiline özel çeyiz kategorileri oluşturur
+- Kategorilere ürün, fiyat ve görsel ekler
+- Ürünlerin durumunu (aldım / alacağım / almadım) belirler
+- Toplam harcamaları otomatik olarak görüntüler
+- Arkadaş ekleyerek diğer kullanıcıların çeyiz listelerini inceleyebilir
 
  ##  Özellikler
 
