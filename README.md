@@ -43,7 +43,7 @@ belirtmişlerdir.
 Ayrıca, piyasadaki benzer (muadil) çeyiz takip uygulamalarından farklı olarak, arkadaş ekleme ve çeyiz ürünlerini paylaşabilme özelliğinin bulunması, uygulamanın ayırt edici ve öne çıkan bir yönü olarak değerlendirilmiştir.
 Bu geri bildirimler doğrultusunda, uygulamanın kullanıcı deneyimi açısından başarılı bir temel sunduğu ve geliştirilmeye açık bir yapıya sahip olduğu sonucuna varılmıştır.
 
-# Nerede ve Nasıl Kullanılır?
+# Nerede Kullanılır?
 
 - Evde çeyiz planlaması yaparken
 - Çeyiz listesi oluşturulurken harcama kontrolünde 
