@@ -101,4 +101,4 @@ kullanılır.
 
 Projenin tanıtım ve kullanım videosuna aşağıdaki bağlantıdan ulaşabilirsiniz:
 
- https://youtu.be/9sHV9k146lY
+ https://www.youtube.com/watch?v=mO9nytkcDwU
